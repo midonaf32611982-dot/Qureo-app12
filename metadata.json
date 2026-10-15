@@ -1,0 +1,6 @@
+{
+  "name": "Sprix Solver",
+  "description": "Comprehensive solver and administrative platform for Sprix and Qureo learning modules, featuring advanced AI tools, question banking, and full user management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

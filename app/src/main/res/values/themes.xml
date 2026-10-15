@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication" parent="android:Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">#080B12</item>
+        <item name="android:windowSplashScreenBackground">#080B12</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/app_outer_logo_circle</item>
+    </style>
+</resources>
